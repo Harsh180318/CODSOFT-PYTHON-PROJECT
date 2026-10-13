@@ -74,9 +74,9 @@ Features:
 
 ##👤 About Me
 
-Author Abhishek Kumar  
+Author Harsh  
 B.Tech Computer Science Engineering (Data Science)  
-Email: ak11020876@gmail.com
+Email: HarshPoddar1818@gmail.com
 
 I enjoy building practical tools for real-world problems—thank you for viewing my internship work!
 
